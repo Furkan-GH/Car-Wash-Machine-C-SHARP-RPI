@@ -1,5 +1,8 @@
 **Title:** Raspberry Pi-Controlled Car Wash Simulator with Real-Time Interaction
 
+<img src="https://github.com/Furkan-GH/Car-Wash-Machine-C-SHARP-RPI/assets/92176041/bf84e512-50b8-47c4-9221-d8f262ddb28c" alt="alt text" width="500" height="320">
+
+
 **Introduction:**
 This project marks my debut in the realm of Raspberry Pi (RPI) and computer communication. It revolves around a user-controlled miniature car wash machine, implemented as a Windows Form App-based model. The real-world simulation involves using sensors to detect the car's position throughout its various stages.
 
